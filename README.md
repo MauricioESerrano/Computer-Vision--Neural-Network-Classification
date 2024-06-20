@@ -1,4 +1,4 @@
-# Bird-Classification-Neural-Network
+# Classification-Neural-Network
 
 The ultimate goal of this project was to develop a model that would be able to classify between different species of birds. We utilized a Kaggle dataset for this, which split the data into training, validation, and test sets for our use.
 
