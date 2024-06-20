@@ -1,6 +1,6 @@
 # Classification-Neural-Network
 
-This project aims to develop a model to distinguish between different species of birds.
+Created a convolutional neural network (CNN) using TensorFlow and Keras to classify over 47,000 different images - Trained ML model using the Fashion MNIST dataset and transitioned to a dataset of various bird species.
 
 We started with the MNIST dataset due to its simplicity, and from there worked our way up to building a model for the bird classification problem. We built a CNN for this task, which required a lot of experimentation and research.
 
